@@ -9,7 +9,7 @@ updated: 2020-06-20
 
 The Opportunities section of your Lighthouse report lists all images in your page
 that aren't appropriately sized,
-along with the potential savings in [kibibytes (KiB)](https://en.wikipedia.org/wiki/Kibibyte).
+along with the potential savings in [kilobytes (KB)](https://en.wikipedia.org/wiki/Kilobyte).
 Resize these images to save data and improve page load time:
 
 <figure>
